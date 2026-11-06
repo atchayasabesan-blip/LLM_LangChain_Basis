@@ -1,0 +1,35 @@
+CHAIN_NAME,INPUT,OUTPUT
+Summarization Chain,"
+Artificial Intelligence is a branch of computer science.
+It enables machines to perform tasks such as learning,
+reasoning and problem-solving.
+
+Machine Learning is a subset of Artificial Intelligence.
+It allows computers to learn from data.
+
+AI is widely used in education, healthcare,
+banking and many other industries.
+","Here is a summary of the text in simple English:
+
+Artificial Intelligence (AI) is a part of computer science.
+It helps machines do things like learn, think, and solve problems.
+
+Machine Learning is a part of AI.
+It lets computers learn from information.
+
+AI is used in many areas, such as:
+- Schools
+- Hospitals
+- Banks
+- And many other places."
+Question Answering Chain,"
+Python is a high-level programming language.
+It is easy to learn and supports multiple programming
+paradigms. Python is widely used in AI, data science,
+web development and automation.
+","The uses of Python include:
+
+1. Artificial Intelligence (AI)
+2. Data Science
+3. Web Development
+4. Automation"
